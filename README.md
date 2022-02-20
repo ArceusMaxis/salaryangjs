@@ -1,2 +1,2 @@
 # salaryangjs
-salary calaculator in angular js
+salary calculator in angular js
